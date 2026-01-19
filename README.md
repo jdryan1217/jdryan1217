@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Josh Ryan
-- I’m interested in cybersecurity and all the latest tech gear.
-- I’m currently learning the most relevent cybersecurity tools, programs and languages.
-- I’m looking to collaborate on building as close to a zero trust policy on my personal and business infrastructor as possible.
+👋 Hi, I’m Josh Ryan
 
+Cybersecurity & IT Operations Specialist with hands‑on experience supporting enterprise, government, and small‑business environments. I focus on security monitoring, identity protection, endpoint hardening, and building practical automation that strengthens day‑to‑day defenses.
 
-My passion for cybersecurity began the day the company I helped build got hacked. Being able to see, first hand, what a ransomware attack can do really opened my eyes to the world of cybersecurity.
+My interest in cybersecurity started after witnessing a ransomware incident firsthand at a company I helped build. Since then, I’ve worked across multiple environments handling identity issues, endpoint security gaps, incident triage, and operational security workflows.
 
-This industry sees no sign of stopping anytime soon and the need for Infosec has never been more dire. This is why I have dedicated my free time to learning everything there is to know about the broad array of technologies surrounding our everyday lives. I decided to start with the cybersecurity bootcamp at the University of Denver and my study for the CompTIA Security+ Certification. Now, all I seem to listen to is cybersecurity podcasts and youtube channels. An obsession with cloud and networking has started and I hope to inspire more to follow suit as we now have battlefronts via keyboards and command lines as well. I hope you join me and get, at least, a basic understanding of phishing and the vulnerabilities we all have with the tools we use now everyday.
+I work heavily with:
+• SOC‑style alert triage and investigative workflows
+• Identity and access security across AD/Azure AD
+• Endpoint protection and EDR tooling (Defender, CrowdStrike)
+• PowerShell and Python automation for real operational tasks
+• Cloud and M365 security
+
+I’m committed to building resilient, zero‑trust‑inspired environments and improving the security posture of the systems I support. I enjoy breaking down complex security concepts into clear, actionable guidance and collaborating on projects that blend security, automation, and practical engineering.
+
+If you’re working on security operations, automation, or cloud‑focused projects, I’m always open to connecting.
